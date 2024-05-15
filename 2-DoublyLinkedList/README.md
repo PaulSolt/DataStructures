@@ -1,12 +1,11 @@
-# Linked List
-2024-05-14
+# Doubly Linked List
+2024-05-15
 
-In this tutorial you'll learn how to make a single linked list.
+In this tutorial you'll learn how to make a Doubly Linked List.
 
 Task: Implement LinkedList<Item> with Node<Item> using generics
 1. Store the count of nodes
-2. Add a description for debug printing
-3. Implement Linked List with methods
+2. Implement Linked List with methods
 
 	```swift
 	var count: Int
@@ -14,6 +13,7 @@ Task: Implement LinkedList<Item> with Node<Item> using generics
 	func delete(_ node: Node<Item>) // O(n)
 	```
 
+3. Add a description for debug printing
 4. Verify all unit tests pass
 
-[Linked List Notes](1-LinkedList-Notes.pdf)
+TODO: [[[Doubly Linked List Notes]](2-DoublyLinkedList-Notes.pdf)
