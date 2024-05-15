@@ -1,6 +1,8 @@
 # Doubly Linked List
 2024-05-15
 
+# Doubly Linked List in Xcode
+
 In this tutorial you'll learn how to make a Doubly Linked List.
 
 Task: Implement LinkedList<Item> with Node<Item> using generics
@@ -16,4 +18,10 @@ Task: Implement LinkedList<Item> with Node<Item> using generics
 3. Add a description for debug printing
 4. Verify all unit tests pass
 
-TODO: [[[Doubly Linked List Notes]](2-DoublyLinkedList-Notes.pdf)
+[Doubly Linked List Notes](2-DoublyLinkedList.pdf)
+
+## Doubly Linked List Speed Run
+
+How fast can you implement a Doubly Linked List in CoderPad without code completion or assistance?
+
+Try the [Doubly Linked List Speed Run](2-DoublyLinkedList-SpeedRun-Solution/README.md)
